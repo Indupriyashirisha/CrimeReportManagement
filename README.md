@@ -42,16 +42,16 @@ Our user interfaces are designed with responsiveness in mind, ensuring optimal p
 
 ## Screenshots
 ### Admin Dashboard:
-(outputmedia/Picture1.jpg)
+![Crime Management System](outputmedia/Picture1.jpg)
 
 ### NCO Dashboard:
-(outputmedia/Picture3.jpg)
+![Crime Management System](outputmedia/Picture3.jpg)
 
 ### CID Dashboard:
-(outputmedia/Picture4.jpg)
+![Crime Management System](outputmedia/Picture4.jpg)
 
 ### Case Investigation View:
-(outputmedia/Picture5.jpg)
+![Crime Management System](outputmedia/Picture5.jpg)
 
 ## System Requirements
 ### Hardware Requirements:
