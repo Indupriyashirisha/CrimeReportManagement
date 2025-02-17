@@ -41,16 +41,19 @@ With the integration of **MySQL**, our system ensures secure and structured stor
 Our user interfaces are designed with responsiveness in mind, ensuring optimal performance across various devices and screen sizes.
 
 ## Screenshots
-### Admin Dashboard:
+### Home Dashboard:
 ![Crime Management System](outputmedia/Picture1.jpg)
 
-### NCO Dashboard:
-![Crime Management System](outputmedia/Picture3.jpg)
+### Complaint Dashboard:
+![Crime Management System](outputmedia/Picture2.jpg)
 
 ### CID Dashboard:
+![Crime Management System](outputmedia/Picture3.jpg)
+
+### NOC Dashboard:
 ![Crime Management System](outputmedia/Picture4.jpg)
 
-### Case Investigation View:
+### NOC Dashboard:
 ![Crime Management System](outputmedia/Picture5.jpg)
 
 ## System Requirements
