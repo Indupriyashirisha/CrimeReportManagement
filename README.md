@@ -3,7 +3,7 @@
 ## Welcome
 Welcome to the **Crime Record Management System** GitHub Repository! This repository hosts a comprehensive Database Management System (DBMS) project aimed at enhancing crime record management and analysis. Our project is designed to streamline the process of recording, organizing, and analyzing criminal activities, ensuring a more efficient and data-driven approach for law enforcement agencies.
 
-![Crime Management System](images/crime_management_banner.png)
+![Crime Management System](outputmedia/Picture1.jpg)
 
 ## Key Features
 ### Admin
@@ -42,16 +42,16 @@ Our user interfaces are designed with responsiveness in mind, ensuring optimal p
 
 ## Screenshots
 ### Admin Dashboard:
-![Admin Dashboard](images/admin_dashboard.png)
+![outputmedia/Picture1.jpg)
 
 ### NCO Dashboard:
-![NCO Dashboard](images/nco_dashboard.png)
+![outputmedia/Picture3.jpg)
 
 ### CID Dashboard:
-![CID Dashboard](images/cid_dashboard.png)
+![outputmedia/Picture4.jpg)
 
 ### Case Investigation View:
-![Case Investigation](images/case_investigation.png)
+![outputmedia/Picture5.jpg)
 
 ## System Requirements
 ### Hardware Requirements:
