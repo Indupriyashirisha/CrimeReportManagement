@@ -1,80 +1,114 @@
-Welcome to the "Crime Record Management System" GitHub Repository! <br />
+# Crime Record Management System
 
-This repository hosts a comprehensive Database Management System (DBMS) project aimed at enhancing crime record management and analysis. Our project is designed to streamline the process of recording, organizing, and analyzing criminal activities, ensuring a more efficient and data-driven approach for law enforcement agencies. <br />
+## Welcome
+Welcome to the **Crime Record Management System** GitHub Repository! This repository hosts a comprehensive Database Management System (DBMS) project aimed at enhancing crime record management and analysis. Our project is designed to streamline the process of recording, organizing, and analyzing criminal activities, ensuring a more efficient and data-driven approach for law enforcement agencies.
 
-Key Features: <br />
-  <br />
-  Admin <br /><br />
-    Admin Dashboard <br />
-    View Staff List <br />
-    Assign case to CID Officer <br />
-    Manage Account <br /><br /><br />
-  NCO<br /><br />
-    NCO Dashboard <br />
-    Register a Complain <br />
-    View list of complains <br />
-    View details of case investigation <br />
-    Assign a case CID Officer <br />
-    Manage Account/Change Password <br /><br /><br />
-  CID<br /><br />
-    CID Dashboard <br />
-    View list of cases assigned <br />
-    View details of case investigation <br />
-    Write a report on the case being investigated <br />
-    Manage Account/Change Password <br /><br /><br />
+![Crime Management System](images/crime_management_banner.png)
 
-Technologies Used: Our project employs a robust tech stack including PHP, HTML, JavaScript, CSS, and MySQL. PHP ensures dynamic data processing, while HTML and CSS contribute to the user-friendly interface. JavaScript enhances interactivity and a smooth user experience. MySQL acts as the backend database, ensuring secure data storage and retrieval. <br />
+## Key Features
+### Admin
+- Admin Dashboard
+- View Staff List
+- Assign cases to CID Officers
+- Manage Account
 
-Efficient Data Management: With the integration of MySQL, our system ensures secure and structured storage of crime-related information. The relational database design facilitates seamless data manipulation, reporting, and analysis. <br />
+### NCO
+- NCO Dashboard
+- Register a Complaint
+- View list of complaints
+- View details of case investigations
+- Assign a case to a CID Officer
+- Manage Account/Change Password
 
-Responsive Design: Our user interfaces are designed with responsiveness in mind, ensuring optimal performance across various devices and screen sizes.<br />
+### CID
+- CID Dashboard
+- View list of assigned cases
+- View details of case investigations
+- Write a report on the case being investigated
+- Manage Account/Change Password
 
-We believe that efficient crime record management is crucial for effective law enforcement, and our "Crime Record Management System" project is a step in that direction. By combining cutting-edge technologies and a user-centered approach, we aim to revolutionize the way crime data is handled and analyzed. We invite you to explore, contribute, and collaborate to make our criminal justice system more effective and data-driven.<br />
+## Technologies Used
+Our project employs a robust tech stack including:
+- **PHP**: Dynamic data processing
+- **HTML & CSS**: User-friendly interface
+- **JavaScript**: Enhanced interactivity and smooth user experience
+- **MySQL**: Secure data storage and retrieval
 
-Feel free to contribute, provide feedback, and join us on this journey towards improving crime record management!<br />
+## Efficient Data Management
+With the integration of **MySQL**, our system ensures secure and structured storage of crime-related information. The relational database design facilitates seamless data manipulation, reporting, and analysis.
 
-Tech Stack:<br />
-PHP<br />
-HTML<br />
-JavaScript<br />
-CSS<br />
-MySQL <br />
-<br />
---How to Run--<br />
-<br />
-Requirements<br />
-<br />
-<ul>
-<li> Download and Install any local web server such as XAMPP/WAMP.</li>
-<li> Download the provided source code zip file. (download button is located below. </li>
-<li> Installation/Setup </li>
-</ul>
+## Responsive Design
+Our user interfaces are designed with responsiveness in mind, ensuring optimal performance across various devices and screen sizes.
 
-<br />
-1.Open your XAMPP/WAMP's Control Panel and start the Apache and MySQL.<br /><br />
-2.Extract the downloaded source code zip file.<br /><br />
-3.If you are using XAMPP, copy the extracted source code folder and paste it into the XAMPP's "htdocs" directory. And If you are using WAMP, paste it into the "www" directory.<br /><br />
-4.Browse the PHPMyAdmin in a browser. i.e. http://localhost/phpmyadmin<br /><br />
-5.Create a new database naming bijapurpolice.<br /><br />
-6.Import the provided SQL file. The file is known as ghpolice.sql located inside the DB File folder.<br /><br />
-7.Browse the Police Crime Record Management System System in a browser. i.e. http://localhost/bijapurpolice.<br /><br />
-<br />
+## Screenshots
+### Admin Dashboard:
+![Admin Dashboard](images/admin_dashboard.png)
 
-Admin 
-------
-100 - djain123  <br />
-101 - agarwal123 <br />
+### NCO Dashboard:
+![NCO Dashboard](images/nco_dashboard.png)
 
+### CID Dashboard:
+![CID Dashboard](images/cid_dashboard.png)
 
-NCO
------
-113 - ajay123 <br />
-114 - usmani123 <br />
-117 - bijapur123 <br />
+### Case Investigation View:
+![Case Investigation](images/case_investigation.png)
 
+## System Requirements
+### Hardware Requirements:
+- Processor: Minimum 2GHz
+- RAM: At least 1GB
+- Hard Disk: Minimum 2GB free space
 
-CID
-------
-115 - sukali123 <br />
-116 - attar123 <br />
-110 - shaikh123 <br />
+### Software Requirements:
+- XAMPP/WAMP (Local Web Server)
+- Web Browser (Chrome, Firefox, etc.)
+- MySQL
+
+## Installation & Setup
+### Requirements
+1. Download and install a local web server such as **XAMPP/WAMP**.
+2. Download the provided source code zip file.
+
+### Steps
+1. **Start Apache & MySQL** in your XAMPP/WAMP Control Panel.
+2. **Extract the source code** zip file.
+3. **Copy the extracted folder** to:
+   - `htdocs` directory (for XAMPP)
+   - `www` directory (for WAMP)
+4. **Open PHPMyAdmin** in a browser (`http://localhost/phpmyadmin`).
+5. **Create a new database** named `bijapurpolice`.
+6. **Import the provided SQL file** (`ghpolice.sql`) located inside the `DB File` folder.
+7. **Run the system** by opening `http://localhost/bijapurpolice` in your browser.
+
+## Default Credentials
+### Admin
+- `100 - djain123`
+- `101 - agarwal123`
+
+### NCO
+- `113 - ajay123`
+- `114 - usmani123`
+- `117 - bijapur123`
+
+### CID
+- `115 - sukali123`
+- `116 - attar123`
+- `110 - shaikh123`
+
+## Future Enhancements
+- **Predictive Analytics**: Crime trend analysis using machine learning.
+- **Real-time Data Integration**: Live data feeds from CCTV and social media.
+- **Geospatial Mapping**: Visualization of crime hotspots on a map.
+- **Mobile App Integration**: Extend system access via mobile applications.
+
+## Contributing
+If you would like to contribute:
+- Fork the repository
+- Create a feature branch (`git checkout -b feature-name`)
+- Commit your changes (`git commit -m "Add feature"`)
+- Push to the branch (`git push origin feature-name`)
+- Open a pull request
+
+## Contact
+For queries or contributions, feel free to reach out to **Indu priya** at indureddyg1997@gmail.com.
+
