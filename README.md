@@ -53,7 +53,7 @@ Our user interfaces are designed with responsiveness in mind, ensuring optimal p
 ### NOC Dashboard:
 ![Crime Management System](outputmedia/Picture4.jpg)
 
-### NOC Dashboard:
+### Police login page:
 ![Crime Management System](outputmedia/Picture5.jpg)
 
 ## System Requirements
