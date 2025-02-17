@@ -42,16 +42,16 @@ Our user interfaces are designed with responsiveness in mind, ensuring optimal p
 
 ## Screenshots
 ### Admin Dashboard:
-![outputmedia/Picture1.jpg)
+[outputmedia/Picture1.jpg)
 
 ### NCO Dashboard:
-![outputmedia/Picture3.jpg)
+[outputmedia/Picture3.jpg)
 
 ### CID Dashboard:
-![outputmedia/Picture4.jpg)
+[outputmedia/Picture4.jpg)
 
 ### Case Investigation View:
-![outputmedia/Picture5.jpg)
+[outputmedia/Picture5.jpg)
 
 ## System Requirements
 ### Hardware Requirements:
